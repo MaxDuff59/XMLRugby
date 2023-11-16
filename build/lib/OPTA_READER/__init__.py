@@ -1,0 +1,1 @@
+from xmlrugby import extract

@@ -1,0 +1,8 @@
+setup.py
+OPTA_READER/__init__.py
+OPTA_READER/xmlrugby.py
+XMLRugby.egg-info/PKG-INFO
+XMLRugby.egg-info/SOURCES.txt
+XMLRugby.egg-info/dependency_links.txt
+XMLRugby.egg-info/requires.txt
+XMLRugby.egg-info/top_level.txt
